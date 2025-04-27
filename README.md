@@ -85,4 +85,4 @@ npm run dev -- --host 0.0.0.0
 
 # 🧠 Bonus Tip
 
-You can also make it **smarter inside `vite.config.js`** by detecting if you're in a Docker environment, and setting `server.host = true` automatically. Let me know if you want an example of that! 🚀
+You can also make it **smarter inside `vite.config.js`** by detecting if you're in a Docker environment, and setting `server.host = true` automatically.
